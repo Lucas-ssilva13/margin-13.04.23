@@ -1,0 +1,20 @@
+.nav{
+    margin: 25px 50px 75px 100px;
+    border:1px solid;
+    background-color: lightcoral;
+}
+.section{
+    margin: 25px 50px 75px;
+    border: 2px solid blue;
+    background-color: rgb(154, 194, 230);
+}
+.article{
+    margin: 25px 50px;
+    border: 2px solid red;
+    background-color: rgb(220, 60, 60);
+}
+.footer{
+    border: 1px solid red;
+    width: 300px;
+    margin: auto;
+}
